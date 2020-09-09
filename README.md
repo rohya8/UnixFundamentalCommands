@@ -94,4 +94,4 @@ The fundamental UNIX commands necessary for development
 [Progate]: https://progate.com/languages/commandline
 [Guru99]: https://www.guru99.com/must-know-linux-commands.html
 
-**If you want add more feel free to share**
+**if you want to contribute to the project,create a pull request**
