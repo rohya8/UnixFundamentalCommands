@@ -1,4 +1,3 @@
-### Introduction
 The fundamental UNIX commands necessary for development
 - The command line is a tool for interacting with a computer using only text (also known as a text interface) rather than other methods like clicking and scrolling.
 - If you press the Tab key while entering a file name or folder name, the rest of the name gets auto-completed. 
