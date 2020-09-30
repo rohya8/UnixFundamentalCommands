@@ -84,6 +84,18 @@ The fundamental UNIX commands necessary for development
     ```sh
     $ lp begin.txt
     ```      
+#### ssh setup for client:
+Check on both openssh-client and openssh-server
+From server 
+- ssh-keygen
+- ssh-copy-id -i user@ip
+- ssh-add
+##relogin cmd without restart
+ - exec bash    
+### To list out all installed packages in debian/fedora
+Redhat - rpm -qa 
+ubuntu - dpkg -l   
+    
 #### Reference Links
 
 * [Progate]
